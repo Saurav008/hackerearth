@@ -1,2 +1,2 @@
-# [1) PRIME NUMBER.](Basic of Programing/prime number)
+# [1) PRIME NUMBER.](Basics of Programming/prime number)
 
