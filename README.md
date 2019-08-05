@@ -1,2 +1,2 @@
-# [1) PRIME NUMBER.].(Basics of Programming/prime number/Create prime number)
+# [1) PRIME NUMBER.].(Basics of Programming/prime number.txt)
 
