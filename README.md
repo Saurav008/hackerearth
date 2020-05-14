@@ -1,2 +1,2 @@
-# [1) PRIME NUMBER.](Basics of Programming/saurav.txt)
+# [1) PRIME NUMBER.](BasicsofProgramming/primenumber.c)
 
